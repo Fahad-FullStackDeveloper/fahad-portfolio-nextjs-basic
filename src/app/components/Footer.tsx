@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         <p>NextWave Dev</p>
       </div>
-      <div className="flex justify-end items-end pr-10">
+      <div className="flex justify-end items-end pr-5">
         <Switch />
       </div>
       <div className="flex justify-center items-center w-full space-x-10">

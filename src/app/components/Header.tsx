@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Header = () => {
   return (
       <div className="max-h-max flex items-center justify-end text-yellow-600">
@@ -7,5 +5,4 @@ const Header = () => {
       </div>
   )
 }
-
 export default Header

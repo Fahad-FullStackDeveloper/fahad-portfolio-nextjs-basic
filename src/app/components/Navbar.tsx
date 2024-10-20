@@ -1,7 +1,7 @@
 "use client";
 import { Button } from "@/components/ui/button"
 import { Switch } from "@/components/ui/switch"
-import React,{ useState } from "react";
+import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import Logo from "@/app/images/LOGO2.jpg"
